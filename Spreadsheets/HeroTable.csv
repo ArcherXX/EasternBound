@@ -1,0 +1,8 @@
+ID,Name,Minimum Damage,Maximum Damage,Crit Chance,Health,Armor,Animation Sheet,Attack Sheet
+1,Tank Dude,5,10,15,50,25,Tank.jpg,0
+2,Healer Dude,2,4,5,30,0,Healer.jpg,1
+3,Sword Dude,10,15,20,35,0,Sword.jpg,2
+4,Sniper Dude,5,20,20,25,5,Sniper.jpg,3
+5,Splodey Dude,10,20,25,20,0,Demo.jpg,4
+6,Rogue Dude,15,15,35,20,0,Rogue.jpg,5
+7,Soldier Dude,15,15,0,40,15,Soldier.jpg,6

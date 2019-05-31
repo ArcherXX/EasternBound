@@ -1,0 +1,11 @@
+ID,Name,Minimum Damage,Maximum Damage,Crit Chance,Health,Armor,Attack Sheet,Animation Sheet,Difficulty
+1,Slime,3,5,5,20,50,SlimeAttacks.csv,Slime.jpg,1
+2,Skeleton,5,10,5,20,15,SwordEnemy.csv,Skeleton.jpg,1
+3,Goblin,3,6,15,15,0,SwordEnemy.csv,Goblin.jpg,1
+4,Bandit,5,10,10,25,0,SniperEnemy.csv,Bandit.jpg,1
+5,Cultist,3,5,5,20,0,HealerEnemy.csv,Cultist.jpg,1
+6,Ogre,10,20,10,50,10,SwordEnemy.csv,Ogre.jpg,4
+7,Ochre Jelly,5,20,20,30,50,SlimeAttacks.csv,OchreJelly.jpg,4
+8,Assassin,5,30,25,30,0,SniperEnemy.csv,Assassin.jpg,4
+9,High Priestess,5,10,5,30,0,HealerEnemy.csv,High Priestess.jpg,4
+10,,,,,,,,,
